@@ -2,40 +2,48 @@
 name: Request Datacap
 about: Users must open a new issue to request datacap for their addresses
 title: 'Data Cap Request for: [Organization Name]'
-labels: request
+labels: 'state:Request'
 assignees: ''
 
 ---
 
-##  Basic Information
+##  Datacap Request Information
 
-Please fill in the following basic information about yourself.
+Please complete the following information:
 
-**Name / Organization / Alias**: 
+### Organization Name
 
-**Public Profile of Organization**: 
+>My Organization Name
 
-**Proof of Requester's association with Organization**:
+### Address
 
-**Data Cap Requested (Total Amount)**:   
+>t0231874218
 
-## Optional Information 
-  
-**Client Address(es)**:
+### Datacap Requested
 
-**Intended Use Case / Allocation Plan**:
+>10TB
 
-**Contact Information**: 
+Please, use the (GB, TB, HB, ..) format.
 
-**Links to prior approvals**:
- 
-## Additional Information 
+### Public Profile of Organization
 
-You can also provide us more information you think could be relevant for us to check your identity or your use case.  
+Some description or link to the public profile of the organization
+
+### Intended Use Case / Allocation Plan
+
+Please, include some information about the main usage you want to make of the datacap.
+
+### Contact Information
+
+How can we contact with you?
+
+### Additional Information
+
+Is there any other information you can provide?
+
 
 ###### _Note: If you are not familiar with markdown language, use the Preview tab to make sure the form is properly filled._
 
 ### Disclaimer
 
 Be aware that the information you are submitting will be publicly available for all Filecoin community and it could be used to oversight and trace the verify flows.
-
