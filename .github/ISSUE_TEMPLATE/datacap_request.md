@@ -2,45 +2,39 @@
 name: Request Datacap
 about: Users must open a new issue to request datacap for their addresses
 title: 'Data Cap Request for: [Organization Name]'
-labels: 'state:Request'
+labels: state:Request
 assignees: ''
 
 ---
 
-##  Datacap Request Information
+##  Basic Information
 
-Please complete the following information:
-
-### Organization Name
-
->My Organization Name
+Please fill in the following basic information about yourself.
 
 ### Address
+>address
 
->t0231874218
+**Name / Organization / Alias**: 
 
-### Datacap Requested
+**Public Profile of Organization**: 
 
->10TB
+**Proof of Requester's association with Organization**:
 
-Please, use the (GB, TB, HB, ..) format.
+**Data Cap Requested (Total Amount)**:   
 
-### Public Profile of Organization
+## Optional Information 
+  
+**Client Address(es)**:
 
-Some description or link to the public profile of the organization
+**Intended Use Case / Allocation Plan**:
 
-### Intended Use Case / Allocation Plan
+**Contact Information**: 
 
-Please, include some information about the main usage you want to make of the datacap.
+**Links to prior approvals**:
+ 
+## Additional Information 
 
-### Contact Information
-
-How can we contact with you?
-
-### Additional Information
-
-Is there any other information you can provide?
-
+You can also provide us more information you think could be relevant for us to check your identity or your use case.  
 
 ###### _Note: If you are not familiar with markdown language, use the Preview tab to make sure the form is properly filled._
 
