@@ -2,42 +2,56 @@
 name: Request Datacap
 about: Users must open a new issue to request datacap for their addresses
 title: 'Data Cap Request for: [Organization Name]'
-labels: state:Request
+labels: 'state:Request'
 assignees: ''
 
 ---
 
-##  Basic Information
+##  Datacap Request Information
 
-Please fill in the following basic information about yourself.
+Please complete the following information:
+
+### Organization Name
+
+>Protocol Labs
+
+Please replace `Protocol Labs` with your Organization or personal name
 
 ### Address
->address
 
-**Name / Organization / Alias**: 
+>t0231874218
 
-**Public Profile of Organization**: 
+Please replace `t0231874218` with your Filecoin address
 
-**Proof of Requester's association with Organization**:
+### Datacap Requested
 
-**Data Cap Requested (Total Amount)**:   
+>10TB
 
-## Optional Information 
-  
-**Client Address(es)**:
+Please, use the (GB, TB, HB, ..) format.
 
-**Intended Use Case / Allocation Plan**:
+## Additional Information
 
-**Contact Information**: 
+Is there any other information you can provide?
 
-**Links to prior approvals**:
- 
-## Additional Information 
+### Public Profile of Organization
 
-You can also provide us more information you think could be relevant for us to check your identity or your use case.  
+Some description or link to the public profile of the organization
 
-###### _Note: If you are not familiar with markdown language, use the Preview tab to make sure the form is properly filled._
+### Intended Use Case / Allocation Plan
 
-### Disclaimer
+Please, include some information about the main usage you want to make of the datacap.
+
+### Contact Information
+
+How can we contact with you?
+
+### Comments
+
+Do you have any additional comment?
+
+
+## Disclaimer
 
 Be aware that the information you are submitting will be publicly available for all Filecoin community and it could be used to oversight and trace the verify flows.
+
+###### _Note: If you are not familiar with markdown language, use the Preview tab to make sure the form is properly filled._
