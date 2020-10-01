@@ -13,4 +13,7 @@
   color: 40ff00
 - name: "state:Denied"
   color: ff0000
-  
+- name: "bot:lookingGood"
+  color: i006b75
+- name: "bot:reviewNeeded"
+  color: fbca04
