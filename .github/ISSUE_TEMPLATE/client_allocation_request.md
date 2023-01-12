@@ -1,10 +1,10 @@
 # Client Allocation Questions
 
 ## Core Information
-- Name: xcstorage
-- Website / Social Media: [https://xcstorage.eth.limo/](https://xcstorage.eth.limo/), (xcstoage, xcstoage)
+- Name: xxx
+- Website / Social Media: www.xxx.co
 - Region: Greater China
 - DataCap Requested: 5 TiB
-- Addresses to be Notarized: f3sdu7c4hkqrr6nejb7obawtnrexdfxcxaepxnui6zqzsgqv6dtd7vyklyzuetfcdqsrp3heey7tculohkdsqq
-- Notary Requested: JoFil
-- Github handle: @xcstoage
+- Addresses to be Notarized: t012010101
+- Notary Requested: zzzzzz
+- Github handle: @zzzzz
