@@ -1,19 +1,10 @@
----
-name: Client Datacap Allocation Request
-about: Users must open a new issue to request datacap for their addresses
-title: 'Client Allocation Request for: [Personal or Organization Name]'
-labels: 'state:Request'
-assignees: ''
-
----
-
-# Client Allocation Questions 
+# Client Allocation Questions
 
 ## Core Information
-- Name: [Individual / Organization]
-- Website / Social Media: [Evidence of Real world Identity]
-- DataCap Requested: [123]
-- Addresses to be Notarized: [fxxxx OR TBD]
-
-
------------------------------
+- Name: xcstorage
+- Website / Social Media: [https://xcstorage.eth.limo/](https://xcstorage.eth.limo/), (xcstoage, xcstoage)
+- Region: Greater China
+- DataCap Requested: 5 TiB
+- Addresses to be Notarized: f3sdu7c4hkqrr6nejb7obawtnrexdfxcxaepxnui6zqzsgqv6dtd7vyklyzuetfcdqsrp3heey7tculohkdsqq
+- Notary Requested: JoFil
+- Github handle: @xcstoage
